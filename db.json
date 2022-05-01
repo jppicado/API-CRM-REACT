@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "José Pablo",
+      "empresa": "Digital Topic",
+      "email": "pablo.picado100299@gmail.com",
+      "telefono": "61784503",
+      "notas": "esta es una nota :)",
+      "id": 1
+    },
+    {
+      "nombre": "Kris",
+      "empresa": "PyK",
+      "email": "kili@gmail.com",
+      "telefono": "86187848",
+      "notas": "holaaaa",
+      "id": 3
+    },
+    {
+      "nombre": "Walter Picado",
+      "empresa": "NBA",
+      "email": "walt@gmail.com",
+      "telefono": "63659935",
+      "notas": "sdsdsds",
+      "id": 4
+    }
+  ]
+}
